@@ -23,32 +23,24 @@ this.Xcord = Xcord;
 this.Ycord = Ycord;
 }
     
-// public void setName(String name) {
-//     this.name = name;
-// }    
+
  public String getName() {
      return name; 
  }
  
-// public void setID(int ID) {
-//     this.ID = ID;
-// }
+
+
  public int getID() {
      return ID;
  }
  
-// public void setXcord(Double Xcord) {
-//     this.Xcord = Xcord; 
-// }
+
  
  public Double getXcord() {
      return Xcord; 
  }
  
-// public void setYcord(Double Ycord) {
-//     this.Ycord = Ycord;
-// }
-// 
+
  public Double getYcord() {
      return Ycord; 
  }
